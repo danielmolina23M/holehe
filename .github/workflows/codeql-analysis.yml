@@ -62,6 +62,3 @@ jobs:
     #- run: |
     #   make bootstrap
     #   make release
-
-    - name: Perform CodeQL Analysis
-      juakinelprestamista398@gmail.com
